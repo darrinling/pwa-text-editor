@@ -4,6 +4,6 @@ Description: This is a text editor that runs in the browser, but the app is also
 
 Deployed App: https://darrin-19-pwa-text-editor.herokuapp.com/
 
-Screenshot: ![Alt text](jate-screenshot)
+Screenshot: ![Alt text](jate-screenshot.png)
 
 
